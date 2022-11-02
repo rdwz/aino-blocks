@@ -1,6 +1,8 @@
 # AinoBlocks - Gutenberg Page Builder Blocks
-	
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/elmastudio/aino-blocks) [![License](https://img.shields.io/badge/license-GPL--2.0%2B-red.svg)](https://github.com/elmastudio/aino-blocks/blob/master/LICENSE)
+
+[![CodeQL](https://github.com/redwerkz/aino-blocks/actions/workflows/codeql.yml/badge.svg)](https://github.com/redwerkz/aino-blocks/actions/workflows/codeql.yml)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/elmastudio/aino-blocks)
+[![License](https://img.shields.io/badge/license-GPL--2.0%2B-red.svg)](https://github.com/elmastudio/aino-blocks/blob/master/LICENSE)
 
 [AinoBlocks](https://ainoblocks.io/) is a WordPress editor block collection for page building. It's recommended to use Aino blocks in combination with the free [Aino theme](https://wordpress.org/themes/aino/).
 
